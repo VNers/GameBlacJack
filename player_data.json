@@ -1,0 +1,28 @@
+{
+    "player": {
+        "name": "Player",
+        "balance": 1050.0,
+        "stats": {}
+    },
+    "dealer": {
+        "name": "Dealer",
+        "balance": 1150.0
+    },
+    "bots": [
+        {
+            "name": "Grace Jones",
+            "balance": 1200.0,
+            "stats": {}
+        },
+        {
+            "name": "Alice Brown",
+            "balance": 200,
+            "stats": {}
+        },
+        {
+            "name": "Alice Taylor",
+            "balance": 950.0,
+            "stats": {}
+        }
+    ]
+}
